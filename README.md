@@ -7,13 +7,13 @@ Table of Contents
 
 1. [Installation](#installation)
 
-2. Project Motivation(#project-motivation)
+2. [Project Motivation](#project-motivation)
 
-3. File Descriptions(#file-descriptions)
+3. [File Descriptions](#file-descriptions)
 
-4. Results(#result)
+4. [Results](#result)
 
-5. Licensing, Authors, and Acknowledgements(#licensing-authors-and-acknowledgements)
+5. [Licensing, Authors, and Acknowledgements](#licensing-authors-and-acknowledgements)
 
 
 Installation
