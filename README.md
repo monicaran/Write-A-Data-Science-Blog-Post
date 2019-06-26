@@ -37,7 +37,7 @@ survey_results_schema  -- this filecontains with survey schema, i.e., the questi
 
 Results
 ------
-The main findings of the code can be found at the post available [here].
+The main findings of the code can be found at the post available [here](https://medium.com/@monica.ran5/data-analysis-of-stack-overflow-developer-survey-2017-829c6cba7cbd?postPublishedType=initial).
 
 Licensing, Authors, and Acknowledgements
 -------
